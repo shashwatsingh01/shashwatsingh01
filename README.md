@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 <br><br> Hi, I'm Shashwat Singh! A passionate developer and tech enthusiast always eager to learn and create innovative solutions. 💻
 
 
